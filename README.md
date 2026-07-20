@@ -7,3 +7,8 @@ Nama: haih
 Kursus:DKB3255
 Objektif: belajar belajar github
 
+
+## Kemahiran
+Phyton
+Github
+Computer Vision
